@@ -1,9 +1,8 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://KnighhtRider.io)
 # <h1 align="center"> Hi 👋, I'm Vivek Thakur <img src="./resources/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
 <h3 align="center">A passionate Web Developer from India.</h3><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left" style="padding-left: 20px"> <img src="https://komarev.com/ghpvc/?username=knighhtrider&label=Profile%20views&color=0e75b6&style=flat" alt="knighhtrider" /> </p><br>
 
 <p align="left"> <a href="https://twitter.com/__vivekk__" target="blank"><img src="https://img.shields.io/twitter/follow/__vivekk__?logo=twitter&style=for-the-badge" alt="__vivekk__" /></a> </p>
 
@@ -94,12 +93,15 @@
     </a> &nbsp;&nbsp;
 </p><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=knighhtrider&show_icons=true&locale=en" alt="knighhtrider" /></p>  
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=knighhtrider&show_icons=true&locale=en&layout=compact" alt="knighhtrider" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KnighhtRider&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnighhtRider&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
+</p> <br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KnighhtRider&style=plastic&label=PROFILE+VIEWS" alt="KnighhtRider" /> </p>
 
   
 <p align="center">
-  <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com//KnighhtRider/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
   
