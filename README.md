@@ -101,7 +101,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KnighhtRider&style=plastic&label=PROFILE+VIEWS" alt="KnighhtRider" /> </p>
 
   
-<p align="center">
-  <img src="https://github.com//KnighhtRider/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+![snake gif](https://github.com/KnighhtRider/KnighhtRider/blob/output/github-contribution-grid-snake.gif)
+
   
